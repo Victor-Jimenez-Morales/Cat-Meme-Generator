@@ -4,7 +4,6 @@ Welcome to **Cat Meme Generator** — a fun and easy-to-use web app that lets yo
 
 👉 **Live Demo**: [cat-meme-generator.vercel.app](https://cat-meme-generator.vercel.app)
 
----
 
 ## 🚀 Technologies Used
 
@@ -13,7 +12,6 @@ Welcome to **Cat Meme Generator** — a fun and easy-to-use web app that lets yo
 * **JavaScript (ES6+)** – App logic and interactivity
 * **HTML5 & CSS3** – Layout and styling
 
----
 
 ## 🛠️ Getting Started
 
@@ -42,7 +40,6 @@ To run the project locally, follow these steps:
 
    Navigate to `http://localhost:5173`
 
----
 
 ## 📁 Project Structure
 
@@ -62,8 +59,6 @@ Cat-Meme-Generator/
 ├── vite.config.js        # Vite configuration
 └── README.md             # Project documentation
 ```
-
----
 
 ## 🤝 Contributing
 
