@@ -23,9 +23,10 @@
   font-weight: normal;
   position: absolute;
   pointer-events: none;
-  left: 5px;
   top: 5px;
   display: flex;
+  justify-content: center;
+  width: 100%;
 }
 
 .wave-group .label-char {
