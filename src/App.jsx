@@ -32,7 +32,7 @@ function App () {
 
   return (
     <main>
-      <h1>Cat Meme Generator</h1>
+      <h1>Random Cat Meme Generator</h1>
       <section>
         <Input setText={setText} />
         <button onClick={handleGenerateImg}>Generate meme</button>
